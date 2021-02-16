@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5px;
+}
+
+.wrapper {
+    display: flex;
+    background-color: rgb(9, 9, 44);
+    color: white;
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(219, 191, 33);
+    text-align: center;
+}
